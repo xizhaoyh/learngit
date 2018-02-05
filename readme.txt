@@ -9,3 +9,4 @@ Git tracks changes of files1234
 new branch
 new new
 111
+bug
